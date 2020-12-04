@@ -54,7 +54,7 @@
     "optics-agent": "^1.1.9",
     "prop-types": "^15.6.1",
     "react": "^15.6.1",
-    "react-addons-pure-render-mixin": "^15.4.1",
+    "react-addons-pure-render-mixin": "^15.6.3",
     "react-apollo": "^1.1.1",
     "react-bootstrap": "^0.30.7",
     "react-bootstrap-datetimepicker": "0.0.22",
