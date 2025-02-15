@@ -48,7 +48,7 @@
     "mailchimp": "^1.1.6",
     "marked": "^0.3.19",
     "metascraper": "^1.0.6",
-    "meteor-node-stubs": "^0.2.3",
+    "meteor-node-stubs": "^1.2.8",
     "mingo": "^0.8.1",
     "moment": "^2.22.0",
     "optics-agent": "^1.1.9",
